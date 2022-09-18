@@ -1,0 +1,19 @@
+﻿  Source.c
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(85,41): warning C4047: 'initializing': 'unsigned int' differs in levels of indirection from 'void *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(85,41): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(85,41): warning C4047: 'initializing': 'clock_t' differs in levels of indirection from 'void *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(297,25): warning C4013: 'CheckIp' undefined; assuming extern returning int
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(308,37): warning C4047: '=': 'unsigned int' differs in levels of indirection from 'void *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(310,44): warning C4047: '=': 'clock_t' differs in levels of indirection from 'void *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(311,43): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(315,37): warning C4047: '=': 'unsigned int' differs in levels of indirection from 'void *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(317,44): warning C4047: '=': 'clock_t' differs in levels of indirection from 'void *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(318,43): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(327,51): warning C4047: '==': 'unsigned int' differs in levels of indirection from 'char *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(345,58): warning C4047: '==': 'int' differs in levels of indirection from 'unsigned short *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(358,49): warning C4047: '=': 'unsigned int' differs in levels of indirection from 'char *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(411,58): warning C4047: '==': 'int' differs in levels of indirection from 'unsigned short *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(416,58): warning C4047: '==': 'int' differs in levels of indirection from 'unsigned short *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(421,57): warning C4047: '==': 'int' differs in levels of indirection from 'unsigned short *'
+C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\knocker_server\Source.c(459,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  knocker_server.vcxproj -> C:\Users\Oryan\Desktop\Mars\theFinalWar\presistance\knocker_server\x64\Debug\knocker_server.exe

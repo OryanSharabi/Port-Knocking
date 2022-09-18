@@ -1,0 +1,17 @@
+﻿  Source.c
+D:\Mars\presistance\knocker_server\knocker_server\Source.c(250,14): warning C4101: 'message': unreferenced local variable
+D:\Mars\presistance\knocker_server\knocker_server\Source.c(373,25): warning C4013: 'CheckIp' undefined; assuming extern returning int
+D:\Mars\presistance\knocker_server\knocker_server\Source.c(388,44): warning C4047: '=': 'clock_t' differs in levels of indirection from 'void *'
+D:\Mars\presistance\knocker_server\knocker_server\Source.c(389,43): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+D:\Mars\presistance\knocker_server\knocker_server\Source.c(396,44): warning C4047: '=': 'clock_t' differs in levels of indirection from 'void *'
+D:\Mars\presistance\knocker_server\knocker_server\Source.c(397,43): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+D:\Mars\presistance\knocker_server\knocker_server\Source.c(434,58): warning C4047: '==': 'int' differs in levels of indirection from 'unsigned short *'
+D:\Mars\presistance\knocker_server\knocker_server\Source.c(470,58): warning C4047: '==': 'int' differs in levels of indirection from 'unsigned short *'
+D:\Mars\presistance\knocker_server\knocker_server\Source.c(475,58): warning C4047: '==': 'int' differs in levels of indirection from 'unsigned short *'
+D:\Mars\presistance\knocker_server\knocker_server\Source.c(480,57): warning C4047: '==': 'int' differs in levels of indirection from 'unsigned short *'
+  Generating code
+  0 of 13 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  knocker_server.vcxproj -> D:\Mars\presistance\knocker_server\Release\knocker_server.exe
